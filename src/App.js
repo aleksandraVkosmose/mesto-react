@@ -5,11 +5,9 @@ import ImagePath from './images/image.jpg'
 
 function App() {
   return (
-<div className='App'>
-<>
-  <meta charSet="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Место</title>
+
+  <div className="page">
+
   <header className="header">
     <img
       className="header__logo"
@@ -42,6 +40,7 @@ function App() {
   <footer className="footer">
     <p className="footer__autor">© 2020 Mesto Russia</p>
   </footer>
+  
   {/* popup редактировать профиль*/}
   <div className="popup popup-edit">
     <div className="popup__container popup__container-edit">
@@ -193,7 +192,6 @@ function App() {
   </div>
   {/* template */}
   <template id="element" />
-</>
 
 </div>
 

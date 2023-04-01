@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8e12785457ee174ffdbc",
-    "url": "/mesto-react/static/css/main.4594ef9c.chunk.css"
+    "revision": "ce68b8005ef7033a7e30",
+    "url": "/mesto-react/static/css/main.a3f9f457.chunk.css"
   },
   {
-    "revision": "8e12785457ee174ffdbc",
-    "url": "/mesto-react/static/js/main.8e127854.chunk.js"
+    "revision": "ce68b8005ef7033a7e30",
+    "url": "/mesto-react/static/js/main.ce68b800.chunk.js"
   },
   {
     "revision": "ec5ddaa9f6f0a593122a",
@@ -32,20 +32,8 @@ self.__precacheManifest = [
     "url": "/mesto-react/static/media/Inter-Regular.3ac83020.woff"
   },
   {
-    "revision": "46d7404e4a2eb3cd2ff9bc83023e259c",
-    "url": "/mesto-react/static/media/Inter-Medium.46d7404e.woff2"
-  },
-  {
     "revision": "5ce3e4db9634913232403f166b2447de",
     "url": "/mesto-react/static/media/Inter-Medium.5ce3e4db.woff"
-  },
-  {
-    "revision": "661569afe57a38e1529a775a465da20b",
-    "url": "/mesto-react/static/media/Inter-Black.661569af.woff2"
-  },
-  {
-    "revision": "d476a8b86d0b656cfa463c1148e96069",
-    "url": "/mesto-react/static/media/edit-avatar.d476a8b8.svg"
   },
   {
     "revision": "d0b121f3a9d3d88afdfd6902d31ee9a0",
@@ -58,6 +46,10 @@ self.__precacheManifest = [
   {
     "revision": "b2fce4ac45f3d116cd48ec8d068ab723",
     "url": "/mesto-react/static/media/Add-Button.b2fce4ac.svg"
+  },
+  {
+    "revision": "d476a8b86d0b656cfa463c1148e96069",
+    "url": "/mesto-react/static/media/edit-avatar.d476a8b8.svg"
   },
   {
     "revision": "00b1c22a19c7a1e64f19b1fbacc3a301",
@@ -76,7 +68,15 @@ self.__precacheManifest = [
     "url": "/mesto-react/static/media/Close-Icon.cb0f2bbf.svg"
   },
   {
-    "revision": "ed7151e707124a57d72e10a85bf468b2",
+    "revision": "661569afe57a38e1529a775a465da20b",
+    "url": "/mesto-react/static/media/Inter-Black.661569af.woff2"
+  },
+  {
+    "revision": "46d7404e4a2eb3cd2ff9bc83023e259c",
+    "url": "/mesto-react/static/media/Inter-Medium.46d7404e.woff2"
+  },
+  {
+    "revision": "da48770a1882daf41246fd8ef446dfd9",
     "url": "/mesto-react/index.html"
   }
 ];

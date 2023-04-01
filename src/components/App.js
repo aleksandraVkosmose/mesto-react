@@ -54,7 +54,7 @@ function App() {
         closeAllPopups();
       })
       .catch(err => console.log(err))
-      .finally(() => setIsLoading(false));
+      .finally(() => setIsLoading(false))
   }
 
   function handleUpdateUser(newUserInfo) {
